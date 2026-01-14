@@ -56,6 +56,10 @@ I am a **Lead AI Engineer** focused on building production-grade **Agentic AI** 
 ### 📫 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/kirankumarrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirankumarrathod" height="30" width="40" /></a>
-<a href="mailto:rathodkiran160397@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rathodkiran160397@gmail.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kirankumarrathod" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rathodkiran160397@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
