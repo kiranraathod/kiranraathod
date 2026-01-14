@@ -47,8 +47,7 @@ I am a **Lead AI Engineer** focused on building production-grade **Agentic AI** 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranraathod&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Kiran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranraathod&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kiranraathod&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&hide=prs,issues,contribs" alt="Kiran's GitHub Stats" />
 </div>
 
 ---
